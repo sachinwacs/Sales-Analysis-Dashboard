@@ -1,2 +1,2 @@
 # Sales-Analysis-Dashboard
-![Portfolio Dashboard](Sales Analysis Dashboard.png)
+![Portfolio Dashboard](sales-analysis-dashboard.png)
