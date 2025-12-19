@@ -60,5 +60,8 @@ The dashboard uses the following datasets:
 2. Open that file in Power BI Desktop 
 3. Interact with filters and visuals to explore the insights
 
+## Note
+This dashboard was built from scratch by me using the dataset. While using concepts from a learning course, all dashboards, measures, and data modeling were implemented independently.
+
 
 
