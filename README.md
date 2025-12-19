@@ -61,7 +61,7 @@ The dashboard uses the following datasets:
 3. Interact with filters and visuals to explore the insights
 
 ## Note
-This dashboard was built from scratch by me using the dataset. While using concepts from a learning course, all dashboards, measures, and data modeling were implemented independently.
+This dashboard was built from scratch using the dataset. While following a learning course for guidance, all visuals, measures, and data modeling were created by me.
 
 
 
