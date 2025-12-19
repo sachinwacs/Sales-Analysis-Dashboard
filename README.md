@@ -18,7 +18,7 @@ The dashboard uses the following datasets:
 - Shipping destination (location) data  
 - Calendar data  
 
-[Link to dataset]  
+[Awesome Chocolates Dataset](chocolate-sales-data.xlsx)
 
 ## Tools & Technologies
 - **Power BI Desktop** – Primary platform for dashboard development  
@@ -52,7 +52,7 @@ The dashboard uses the following datasets:
 - The majority of shipments are within the **0–500 box quantity range**  
 
 ## Dashboard Preview
-- [Screenshot link]  
+![portfolio Dashboard](sales-analysis-dashboard-interface.png)
 - [Screen recording link]  
 
 ## How to Use
