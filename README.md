@@ -56,7 +56,7 @@ The dashboard uses the following datasets:
 - [Screen recording link]  
 
 ## How to Use
-1. Download the Power BI (.pbix) file  
+1. Download the Power BI (.pbix) file - [Download](sales-analysis.pbix)
 2. Open that file in Power BI Desktop 
 3. Interact with filters and visuals to explore the insights
 
