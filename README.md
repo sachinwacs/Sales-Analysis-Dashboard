@@ -1,8 +1,8 @@
 # Sales Analysis Dashboard
 
 ## Project Overview
-This Sales Analysis Dashboard provides a comprehensive overview of sales.
-The dashboard is designed to help stakeholders monitor key business metrics and evaluate sales data for better data-driven decision-making.
+This Sales Analysis Dashboard provides a comprehensive overview of sales for Awesome Chocolate Company from January 2023 to September 2024.
+It is designed to help stakeholders monitor key business metrics and analyse sales data to support data-driven decision-making.
 
 ## Objectives
 - Analyse overall shipments, box counts, sales, costs, and profits  
