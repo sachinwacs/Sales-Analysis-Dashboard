@@ -23,7 +23,7 @@ The dashboard uses the following datasets:
 ## Tools & Technologies
 - **Power BI Desktop** – Primary platform for dashboard development  
 - **Power Query** – For data cleaning, transformation, and preparation  
-- **DAX** – For calculated measures
+- **DAX** – For calculating measures
 - **Data Modeling** – Relationships between tables enable cross-filtering and aggregation  
 
 ## Key Metrics & KPIs
