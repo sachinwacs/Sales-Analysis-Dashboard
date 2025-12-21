@@ -21,9 +21,9 @@ The dashboard uses the following datasets:
 [Awesome Chocolates Dataset](chocolate-sales-data.xlsx)
 
 ## Tools & Technologies
-- **Power BI Desktop** – Primary platform for dashboard development  
-- **Power Query** – For data cleaning, transformation, and preparation  
-- **DAX** – For calculating measures
+- **Power BI Desktop** – Primary platform for this dashboard development  
+- **Power Query** – For data cleaning, transformation, and preparation
+- **DAX**(such as CALCULATE, SUM) – For calculating measures
 - **Data Modeling** – Relationships between tables enable cross-filtering and aggregation  
 
 ## Key Metrics & KPIs
