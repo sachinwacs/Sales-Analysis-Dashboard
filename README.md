@@ -43,7 +43,7 @@ The dashboard uses the following datasets:
 - Profit target achievement indicators  
 - All visuals are interactive and can be filtered by product category, shipping destination, salespeople, product name, and time  
 
-## Key Insights
+## Key Insights (Overall)
 - The business maintains a strong overall profit margin of **45.3%**  
 - **Top 3 most profitable products:** “Peanut Butter Cubes”, “Orange Choco”, “Rich Dark Bites”  
 - **Bottom 3 least profitable products:** “Extra Dark Bars”(**37.2% loss**), “Mint Chip Choco”, “Caramel Stuffed Bars”
