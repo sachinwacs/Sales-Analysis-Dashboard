@@ -53,7 +53,7 @@ The dashboard uses the following datasets:
 
 ## Dashboard Preview
 ![portfolio Dashboard](sales-analysis-dashboard-interface.png)
-- [Screen recording link]  
+[Download the video demo](sales-analysis-dashboard-preview.mkv)
 
 ## How to Use
 1. Download the Power BI (.pbix) file - [Download](sales-analysis.pbix)
